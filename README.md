@@ -1,2 +1,2 @@
-# OASIS-INFOBYTE-TASK-1
+# OIBSIP_TASK2
 Number Guessing
